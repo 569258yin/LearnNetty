@@ -5,10 +5,7 @@ import com.kevinyin.lnetty.discard.handler.TimeClientHandler;
 import com.kevinyin.lnetty.discard.handler.TimeEncoder;
 import com.kevinyin.lnetty.discard.handler.TimeServerHandle;
 import io.netty.bootstrap.ServerBootstrap;
-import io.netty.channel.ChannelFuture;
-import io.netty.channel.ChannelInitializer;
-import io.netty.channel.ChannelOption;
-import io.netty.channel.EventLoopGroup;
+import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
@@ -28,6 +25,8 @@ public class DiscardServer {
         EventLoopGroup bossGroup = new NioEventLoopGroup();
         //工作线程  用于处理每个连接
         EventLoopGroup workGroup = new NioEventLoopGroup();
+
+//        ChannelFactory
 
         try{
             ServerBootstrap b = new ServerBootstrap();
