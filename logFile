@@ -1,0 +1,1269 @@
+DEBUG @2016-10-22 23:19:47,339 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 500, true  ¡£¡£¡£
+INFO  @2016-10-22 23:19:47,340 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:500
+DEBUG @2016-10-22 23:19:48,319 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ModifyLinkedStatus
+DEBUG @2016-10-22 23:19:48,319 | Thread-3 | iSPOS | -- modifyLinkedStatus ¡£¡£¡£
+DEBUG @2016-10-22 23:19:48,872 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ModifyLinkedStatus
+DEBUG @2016-10-22 23:19:48,872 | Thread-3 | iSPOS | -- modifyLinkedStatus ¡£¡£¡£
+DEBUG @2016-10-22 23:19:50,055 | Thread-3 | iSPOS | -- postKey on button pCode = 700001. Action = null
+DEBUG @2016-10-22 23:19:50,055 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-22 23:19:50,064 | Thread-3 | iSPOS | -- chooseProduct pCode = 700001
+DEBUG @2016-10-22 23:19:50,064 | Thread-3 | iSPOS | -- startOfNewOrder ¡£¡£¡£
+INFO  @2016-10-22 23:19:50,065 | Thread-3 | iSPOS | -- OkForSell ...code=700001
+DEBUG @2016-10-22 23:19:50,065 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-22 23:19:50,065 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-22 23:19:50,065 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-22 23:19:50,066 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-22 23:19:50,068 | Thread-3 | iSPOS | -- Initial DiscountManager...
+INFO  @2016-10-22 23:19:50,068 | Thread-3 | iSPOS | -- initAllDiscounts ...
+INFO  @2016-10-22 23:19:50,072 | Thread-3 | iSPOS | --  inital discount with ID: 1001 done.
+INFO  @2016-10-22 23:19:50,073 | Thread-3 | iSPOS | --  inital discount with ID: 1002 done.
+INFO  @2016-10-22 23:19:50,073 | Thread-3 | iSPOS | --  inital discount with ID: 1003 done.
+INFO  @2016-10-22 23:19:50,073 | Thread-3 | iSPOS | --  inital discount with ID: 1004 done.
+INFO  @2016-10-22 23:19:50,073 | Thread-3 | iSPOS | --  inital discount with ID: 1005 done.
+INFO  @2016-10-22 23:19:50,073 | Thread-3 | iSPOS | --  inital discount with ID: 1006 done.
+INFO  @2016-10-22 23:19:50,074 | Thread-3 | iSPOS | --  inital discount with ID: 1007 done.
+INFO  @2016-10-22 23:19:50,074 | Thread-3 | iSPOS | --  inital discount with ID: 1008 done.
+INFO  @2016-10-22 23:19:50,074 | Thread-3 | iSPOS | --  inital discount with ID: 1009 done.
+INFO  @2016-10-22 23:19:50,074 | Thread-3 | iSPOS | --  inital discount with ID: 1010 done.
+INFO  @2016-10-22 23:19:50,076 | Thread-3 | iSPOS | --  inital discount with ID: 1011 done.
+INFO  @2016-10-22 23:19:50,076 | Thread-3 | iSPOS | --  inital discount with ID: 1012 done.
+INFO  @2016-10-22 23:19:50,076 | Thread-3 | iSPOS | --  inital discount with ID: 1013 done.
+INFO  @2016-10-22 23:19:50,076 | Thread-3 | iSPOS | -- initAllDiscounts Done.
+INFO  @2016-10-22 23:19:50,076 | Thread-3 | iSPOS | -- initAllDiscounts - add discounts to different ApplyAt classes.
+INFO  @2016-10-22 23:19:50,077 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-22 23:19:50,079 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-22 23:19:50,079 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 700001 ...
+DEBUG @2016-10-22 23:19:50,079 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 700001 ¡£¡£¡£
+DEBUG @2016-10-22 23:19:50,079 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 700001  ¡£¡£¡£
+DEBUG @2016-10-22 23:19:50,079 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-22 23:19:50,831 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 100
+DEBUG @2016-10-22 23:19:50,831 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-22 23:19:50,833 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+DEBUG @2016-10-22 23:19:51,975 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 500
+DEBUG @2016-10-22 23:19:51,975 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 500, true  ¡£¡£¡£
+INFO  @2016-10-22 23:19:51,979 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:500
+DEBUG @2016-10-22 23:19:52,535 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ModifyLinkedStatus
+DEBUG @2016-10-22 23:19:52,535 | Thread-3 | iSPOS | -- modifyLinkedStatus ¡£¡£¡£
+DEBUG @2016-10-22 23:19:53,271 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 100
+DEBUG @2016-10-22 23:19:53,271 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-22 23:19:53,275 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! Exception caught after invoking slot
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! java.lang.NullPointerException
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.UI.CustomerUIManager.setQuantity(CustomerUIManager.java:342)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at java.lang.reflect.Method.invoke(Method.java:498)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.internal.QSignalEmitterInternal$AbstractSignalInternal.emit_helper(QSignalEmitterInternal.java:400)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.QSignalEmitter$Signal1.emit(QSignalEmitter.java:210)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.gui.QApplication.exec_internal(Native Method)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.gui.QApplication.execStatic(QApplication.java:574)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:121)
+ERROR @2016-10-22 23:19:54,031 | Thread-3 | iSPOS | -- !! 	at java.lang.Thread.run(Thread.java:745)
+DEBUG @2016-10-22 23:19:54,519 | Thread-3 | iSPOS | -- postKey on button pCode = 1000001. Action = null
+DEBUG @2016-10-22 23:19:54,519 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-22 23:19:54,519 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000001
+INFO  @2016-10-22 23:19:54,519 | Thread-3 | iSPOS | -- OkForSell ...code=1000001
+INFO  @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- chooseLinkedProduct pCode = 1000001
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-22 23:19:54,520 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-22 23:19:54,520 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 700001 ...
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 700001 ¡£¡£¡£
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 700001  ¡£¡£¡£
+DEBUG @2016-10-22 23:19:54,520 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+ERROR @2016-10-22 23:19:55,798 | Thread-3 | iSPOS | -- !! Exception caught after invoking slot
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! java.lang.NullPointerException
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.UI.CustomerUIManager.setQuantity(CustomerUIManager.java:342)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at java.lang.reflect.Method.invoke(Method.java:498)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.internal.QSignalEmitterInternal$AbstractSignalInternal.emit_helper(QSignalEmitterInternal.java:400)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.QSignalEmitter$Signal1.emit(QSignalEmitter.java:210)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.gui.QApplication.exec_internal(Native Method)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at com.trolltech.qt.gui.QApplication.execStatic(QApplication.java:574)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:121)
+ERROR @2016-10-22 23:19:55,799 | Thread-3 | iSPOS | -- !! 	at java.lang.Thread.run(Thread.java:745)
+DEBUG @2016-10-22 23:19:56,319 | Thread-3 | iSPOS | -- postKey on button pCode = 1000002. Action = null
+DEBUG @2016-10-22 23:19:56,319 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-22 23:19:56,319 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000002
+INFO  @2016-10-22 23:19:56,319 | Thread-3 | iSPOS | -- OkForSell ...code=1000002
+INFO  @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- chooseLinkedProduct pCode = 1000002
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-22 23:19:56,320 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-22 23:19:56,320 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 700001 ...
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 700001 ¡£¡£¡£
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 700001  ¡£¡£¡£
+DEBUG @2016-10-22 23:19:56,320 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-22 23:20:06,629 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-22 23:20:06,630 | Thread-3 | iSPOS | -- saveCurrentOrder: file-- lastOrder.tmp
+DEBUG @2016-10-22 23:20:06,630 | Thread-3 | iSPOS | -- PosController -- saveCurrentOrderToBackup ...
+DEBUG @2016-10-22 23:20:06,630 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-22 23:20:06,631 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-22 23:20:06,631 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-22 23:20:06,632 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+INFO  @2016-10-23 17:30:43,677 | main | iSPOS | -- POSControllerToolKit -- findProcess  processName=iSPOS.exe
+INFO  @2016-10-23 17:30:45,064 | Thread-3 | iSPOS | -- posType=SS
+INFO  @2016-10-23 17:30:45,081 | Thread-3 | iSPOS | -- Configuration  initAmounts...
+INFO  @2016-10-23 17:30:45,081 | Thread-3 | iSPOS | -- ConfigurationManager...initTenderTypes...
+ERROR @2016-10-23 17:30:45,508 | Thread-3 | iSPOS | -- !! console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0.
+DEBUG @2016-10-23 17:30:47,667 | Thread-3 | iSPOS | -- setScriptVersion ...version:$Revision: 1754 $
+DEBUG @2016-10-23 17:30:47,710 | Thread-3 | iSPOS | -- POSCore init currentUuid=535662209
+INFO  @2016-10-23 17:30:47,719 | Thread-3 | iSPOS | -- initLocalServices ...
+INFO  @2016-10-23 17:30:47,719 | Thread-3 | iSPOS | -- Started up Service POS POS2.
+DEBUG @2016-10-23 17:30:47,759 | Thread-3 | iSPOS | -- setSerialPort(.tmp) ...
+INFO  @2016-10-23 17:30:47,759 | Thread-3 | iSPOS | -- initialise printer PRN101 on port Com.tmp with baud rate = 9600
+INFO  @2016-10-23 17:30:47,759 | Thread-3 | iSPOS | -- Started up Service PRN PRN101.
+ERROR @2016-10-23 17:30:47,967 | Thread-3 | iSPOS | -- Exception in decrypt(8cafc860ed74b5f9) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:91)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+ERROR @2016-10-23 17:30:47,968 | Thread-3 | iSPOS | -- Exception in decrypt(edb3f9a33fb123b0435e908dbd4d895faca0b3ed4aa70811) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:92)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 17:30:47,968 | Thread-3 | iSPOS | -- ThreadMonitor is monitoring the following networking threads:
+<BroadcastClientThread,Thread-9>;
+<POSTCPIPServer,Thread-7>;
+<ServerPackageFTP,Thread-10>;
+<POSBroadcastServer,Thread-8>;
+
+INFO  @2016-10-23 17:30:47,969 | Thread-3 | iSPOS | -- posStartup...
+ERROR @2016-10-23 17:30:48,310 | Thread-3 | iSPOS | -- Cannot find image file Images/1024x768/statusbarbk.png for net.TalentSolution.TSPOS.UI.Label_StatusBar
+DEBUG @2016-10-23 17:30:48,371 | Thread-3 | iSPOS | -- backupDBFileAndLogFile...
+DEBUG @2016-10-23 17:30:48,372 | Thread-3 | iSPOS | -- reconstitutionLastDBAndLog...lastLogFile=9997_2_161022.log,lastDBFile=9997_2_161022.DB
+DEBUG @2016-10-23 17:30:48,372 | Thread-3 | iSPOS | -- Reconstruct order(reconstitutionOrder)
+ERROR @2016-10-23 17:30:48,446 | Thread-3 | iSPOS | -- Exception in getLog - logÎÄ¼þÖÐ´íÎó¼ÇÂ¼£¬×Ö·ûÊý²»·û log=287     2       20161022230613001     888     9       1          9997                                                               2007026       -1      198.00        0             ³öË®Ü½ÈØ/6´ç
+ERROR @2016-10-23 17:30:48,446 | Thread-3 | iSPOS | -- Exception in getLog - logÎÄ¼þÖÐ´íÎó¼ÇÂ¼£¬×Ö·ûÊý²»·û log=0                   1fed8e3a                                                                  100³öË®Ü½ÈØ/6´ç
+ERROR @2016-10-23 17:30:48,446 | Thread-3 | iSPOS | -- Exception in getLog - logÎÄ¼þÖÐ´íÎó¼ÇÂ¼£¬×Ö·ûÊý²»·û log=1fed8e39                                                                                                                  b15eb9b1
+ERROR @2016-10-23 17:30:48,446 | Thread-3 | iSPOS | -- Exception in getLog - logÎÄ¼þÖÐ´íÎó¼ÇÂ¼£¬×Ö·ûÊý²»·û log=288     2       20161022230614001     888     9       1          9997                                                               2007025       -1      198.00        0             æ±×ÏæÌºì/6´ç
+ERROR @2016-10-23 17:30:48,446 | Thread-3 | iSPOS | -- Exception in getLog - logÎÄ¼þÖÐ´íÎó¼ÇÂ¼£¬×Ö·ûÊý²»·û log=0                   1fed8e3b                                                                  100æ±×ÏæÌºì/6´ç
+ERROR @2016-10-23 17:30:48,446 | Thread-3 | iSPOS | -- Exception in getLog - logÎÄ¼þÖÐ´íÎó¼ÇÂ¼£¬×Ö·ûÊý²»·û log=1fed8e3a                                                                                                                  1487ffa3
+DEBUG @2016-10-23 17:30:48,496 | Thread-3 | iSPOS | -- recoverLastOrderAndRefreshScreen ...
+DEBUG @2016-10-23 17:30:48,497 | Thread-3 | iSPOS | -- PosController -- saveCurrentOrderToBackup ...
+INFO  @2016-10-23 17:30:48,497 | Thread-3 | iSPOS | -- gotoSalesPanel ...
+DEBUG @2016-10-23 17:30:48,497 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 17:30:48,499 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+DEBUG @2016-10-23 17:30:48,499 | Thread-3 | iSPOS | -- updateOrderViewAndShowPayInfo ¡£¡£¡£
+DEBUG @2016-10-23 17:30:48,503 | Thread-3 | iSPOS | -- roundingAmt from 0.0000 returned 0.00
+DEBUG @2016-10-23 17:30:48,503 | Thread-3 | iSPOS | -- roundingAmt from 0.0000 returned 0.00
+INFO  @2016-10-23 17:30:48,505 | Thread-3 | iSPOS | -- saveCurrentOrder: file-- lastOrder.tmp
+INFO  @2016-10-23 17:30:48,506 | Thread-3 | iSPOS | -- UI loaded...
+DEBUG @2016-10-23 17:30:49,506 | Thread-3 | iSPOS | -- verifyAndRepairLastOperationAndVerifyDB ...
+DEBUG @2016-10-23 17:30:49,538 | Thread-3 | iSPOS | -- verifyAndRepairLastOrder... operationInfo=setCancelOrder:RefreshUI:normalOrder
+DEBUG @2016-10-23 17:30:49,538 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:30:49,538 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:30:49,539 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:30:49,539 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:30:49,540 | Thread-3 | iSPOS | -- verifySqliteDatabaseIsOK...
+DEBUG @2016-10-23 17:30:49,776 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into PosHeartBeat (StoreID,StoreOtherID,PosID,LastHeartBeat) Values ('9997','9997','2','2016-10-23 17:30:49');
+DEBUG @2016-10-23 17:30:49,839 | Thread-3 | iSPOS | -- setPOSStartToFinished...POSStartToFinished=true
+DEBUG @2016-10-23 17:30:53,882 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_StartMenuAreaAndCloseCustomerView
+DEBUG @2016-10-23 17:30:54,744 | Thread-3 | iSPOS | -- postKey on button pCode = 1000001. Action = null
+DEBUG @2016-10-23 17:30:54,744 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-23 17:30:54,752 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000001
+DEBUG @2016-10-23 17:30:54,752 | Thread-3 | iSPOS | -- startOfNewOrder ¡£¡£¡£
+ERROR @2016-10-23 17:30:54,756 | Thread-3 | iSPOS | -- Image file for POSFrame does not exists - Images/1024x768/d530x350_bg.png for net.TalentSolution.TSPOS.UI.Dialog_Frame
+DEBUG @2016-10-23 17:30:57,558 | Thread-3 | iSPOS | -- postKey on button pCode = 1000002. Action = null
+DEBUG @2016-10-23 17:30:57,558 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-23 17:30:57,558 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000002
+DEBUG @2016-10-23 17:30:57,559 | Thread-3 | iSPOS | -- startOfNewOrder ¡£¡£¡£
+DEBUG @2016-10-23 17:30:59,967 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 11
+DEBUG @2016-10-23 17:30:59,967 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 11, true  ¡£¡£¡£
+INFO  @2016-10-23 17:30:59,967 | Thread-3 | iSPOS | -- ¼ÓÔØ¾­Àí½çÃæÇ°¡ª¡ªÖ´ÐÐOrderNotInProgress()·½·¨
+INFO  @2016-10-23 17:30:59,967 | Thread-3 | iSPOS | -- getCrewViewDialog ...
+INFO  @2016-10-23 17:31:01,564 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:11
+DEBUG @2016-10-23 17:31:03,518 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_LogoutCashier
+INFO  @2016-10-23 17:31:03,519 | Thread-3 | iSPOS | -- logoutOperator ...
+DEBUG @2016-10-23 17:31:03,519 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:04,301 | Thread-3 | iSPOS | -- clearSavedOrder ...
+INFO  @2016-10-23 17:31:04,301 | Thread-3 | iSPOS | -- logoutOperator_InitInfo
+DEBUG @2016-10-23 17:31:04,301 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:04,311 | Thread-3 | iSPOS | -- POSController.operatorOperation_SaveToDB...operateAmt=0.0,changeType=1,totalOrderQty=7,totalOrderAmt=376.0,lastOperation=logoutOperator:SaveToDB
+INFO  @2016-10-23 17:31:04,311 | Thread-3 | iSPOS | -- operatorOperation_SaveToDB...POSCore
+DEBUG @2016-10-23 17:31:04,311 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:04,312 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into DrawerChangeInfo (StoreID,PosID,BusinessDate,OperatorID,ManagerID,OrderCalendarDate,OperateTime,OperateAmt,ChangeType,FirstOrderID,LastOrderID,TotalOrderQty,TotalOrderAmt,StoreOtherID) Values ('9997','2','2016-10-22','001','888','2016-10-23','2016-10-23 17:31:04',0.0,1,'','11',7,376.0,'9997');
+DEBUG @2016-10-23 17:31:04,492 | Thread-3 | iSPOS | -- POSController.operatorOperation_SaveToDB return res = 1
+INFO  @2016-10-23 17:31:04,492 | Thread-3 | iSPOS | -- logoutOperator ...saveToDB success!
+INFO  @2016-10-23 17:31:04,492 | Thread-3 | iSPOS | -- logoutOperator:WriteLog
+DEBUG @2016-10-23 17:31:04,492 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:04,492 | Thread-3 | iSPOS | -- logoutOperator_Print
+DEBUG @2016-10-23 17:31:04,492 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:04,493 | Thread-3 | iSPOS | -- getCashReportJsonString ...isOperatorRpt=true
+DEBUG @2016-10-23 17:31:04,493 | Thread-3 | iSPOS | -- getCashReportJsonString_UnLocked ...isOperatorRpt=true
+DEBUG @2016-10-23 17:31:04,502 | Thread-3 | iSPOS | -- findRptDate ...
+DEBUG @2016-10-23 17:31:04,502 | Thread-3 | iSPOS | -- getCashReportJsonString_UnLocked ...rptDate=2016-10-22,isOperatorRpt=true
+INFO  @2016-10-23 17:31:04,568 | Thread-3 | iSPOS | -- CashReport_Main...generateCashReport...date = 2016-10-22
+INFO  @2016-10-23 17:31:04,576 | Thread-3 | iSPOS | -- Initial DiscountManager...
+INFO  @2016-10-23 17:31:04,576 | Thread-3 | iSPOS | -- initAllDiscounts ...
+INFO  @2016-10-23 17:31:04,580 | Thread-3 | iSPOS | --  inital discount with ID: 1001 done.
+INFO  @2016-10-23 17:31:04,581 | Thread-3 | iSPOS | --  inital discount with ID: 1002 done.
+INFO  @2016-10-23 17:31:04,581 | Thread-3 | iSPOS | --  inital discount with ID: 1003 done.
+INFO  @2016-10-23 17:31:04,581 | Thread-3 | iSPOS | --  inital discount with ID: 1004 done.
+INFO  @2016-10-23 17:31:04,581 | Thread-3 | iSPOS | --  inital discount with ID: 1005 done.
+INFO  @2016-10-23 17:31:04,581 | Thread-3 | iSPOS | --  inital discount with ID: 1006 done.
+INFO  @2016-10-23 17:31:04,581 | Thread-3 | iSPOS | --  inital discount with ID: 1007 done.
+INFO  @2016-10-23 17:31:04,582 | Thread-3 | iSPOS | --  inital discount with ID: 1008 done.
+INFO  @2016-10-23 17:31:04,582 | Thread-3 | iSPOS | --  inital discount with ID: 1009 done.
+INFO  @2016-10-23 17:31:04,582 | Thread-3 | iSPOS | --  inital discount with ID: 1010 done.
+INFO  @2016-10-23 17:31:04,583 | Thread-3 | iSPOS | --  inital discount with ID: 1011 done.
+INFO  @2016-10-23 17:31:04,584 | Thread-3 | iSPOS | --  inital discount with ID: 1012 done.
+INFO  @2016-10-23 17:31:04,584 | Thread-3 | iSPOS | --  inital discount with ID: 1013 done.
+INFO  @2016-10-23 17:31:04,584 | Thread-3 | iSPOS | -- initAllDiscounts Done.
+INFO  @2016-10-23 17:31:04,584 | Thread-3 | iSPOS | -- initAllDiscounts - add discounts to different ApplyAt classes.
+DEBUG @2016-10-23 17:31:04,639 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Log\HistoryReportJson\, Log\HistoryReportJson\9997_2_161022_Cash.json.tmp, false ...
+INFO  @2016-10-23 17:31:04,808 | pool-5-thread-1 | iSPOS | -- PrintingRequest  call....
+INFO  @2016-10-23 17:31:04,808 | pool-5-thread-1 | iSPOS | -- PrintingRequest  writePrintFile....
+DEBUG @2016-10-23 17:31:04,809 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:04,811 | pool-5-thread-1 | iSPOS | -- Moving file from <PrintFile\PrintFileBak\PRN101\unfinished\064806_99972_98d37ffd.rq> to <PrintFile/PrintFileBak/PRN101/Finished/064806_99972_98d37ffd.rq.end>
+DEBUG @2016-10-23 17:31:04,821 | pool-5-thread-1 | iSPOS | -- Utility.delFile ...filepath=PrintFile\PrintFileBak\PRN101\unfinished\064806_99972_98d37ffd.rq success !
+DEBUG @2016-10-23 17:31:05,360 | Thread-3 | iSPOS | -- randomCheckLicense ...lockUI=true
+DEBUG @2016-10-23 17:31:05,363 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:05,363 | pool-5-thread-1 | iSPOS | -- POSService_SerialPRN  initPortIO....
+INFO  @2016-10-23 17:31:05,363 | pool-5-thread-1 | iSPOS | -- POSService_SerialPRN  closePortIO....
+DEBUG @2016-10-23 17:31:06,751 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 22
+DEBUG @2016-10-23 17:31:06,751 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 22, true  ¡£¡£¡£
+INFO  @2016-10-23 17:31:06,751 | Thread-3 | iSPOS | -- getCrewViewDialog ...
+INFO  @2016-10-23 17:31:08,344 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:22
+DEBUG @2016-10-23 17:31:09,582 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_CloseStoreLocal
+INFO  @2016-10-23 17:31:09,582 | Thread-3 | iSPOS | -- closeStoreLocal ...
+INFO  @2016-10-23 17:31:09,582 | Thread-3 | iSPOS | -- closeStoreCheck ...
+INFO  @2016-10-23 17:31:09,582 | Thread-3 | iSPOS | -- clearSavedOrder ...
+INFO  @2016-10-23 17:31:11,486 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 17:31:11,486 | Thread-3 | iSPOS | -- Current Scanned Code = C
+INFO  @2016-10-23 17:31:11,498 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 17:31:11,498 | Thread-3 | iSPOS | -- Current Scanned Code = C!
+INFO  @2016-10-23 17:31:12,195 | Thread-3 | iSPOS | -- closeStoreLocalAfterChecking in mode of isLocal = true,printReport=true ...
+DEBUG @2016-10-23 17:31:12,195 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:12,195 | Thread-3 | iSPOS | -- clearSavedOrder ...
+INFO  @2016-10-23 17:31:12,195 | Thread-3 | iSPOS | -- closeStoreLocal_InitInfo...
+DEBUG @2016-10-23 17:31:12,196 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:12,199 | Thread-3 | iSPOS | -- POSController.storeOperation_SaveToDB...storeStatus=3,totalOrderQty=7,totalOrderAmt=376.0,lastOperation=closeStoreLocalAfterChecking:SaveToDB
+INFO  @2016-10-23 17:31:12,200 | Thread-3 | iSPOS | -- storeOperation_SaveToDB...POSCore...storeOpType=3,lastOperation=closeStoreLocalAfterChecking:SaveToDB
+DEBUG @2016-10-23 17:31:12,200 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:12,200 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into StoreOperationInfo (StoreID,PosID,BusinessDate,ManagerID,OrderCalendarDate,OperateTime,StoreOpType,TotalOrderQty,TotalOrderAmt,StoreOtherID,POSVer,ConfVer) Values ('9997','2','2016-10-22','888','2016-10-23','2016-10-23 17:31:12',3,7,376.0,'9997','1.0.37','5');
+DEBUG @2016-10-23 17:31:12,364 | Thread-3 | iSPOS | -- POSController.storeOperation_SaveToDB...return res = 1
+INFO  @2016-10-23 17:31:12,364 | Thread-3 | iSPOS | -- closeStoreLocalAfterChecking ...saveToDB success!
+DEBUG @2016-10-23 17:31:12,364 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:12,563 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:12,563 | Thread-3 | iSPOS | -- getCashReportJsonString_UnLocked ...isOperatorRpt=false
+DEBUG @2016-10-23 17:31:12,568 | Thread-3 | iSPOS | -- findRptDate ...
+INFO  @2016-10-23 17:31:12,569 | Thread-3 | iSPOS | -- getOldReportJsonString...reportType=Cash,date=2016-10-22
+DEBUG @2016-10-23 17:31:12,570 | Thread-3 | iSPOS | -- getCashReportJsonString_UnLocked ...rptDate=2016-10-22,isOperatorRpt=false
+INFO  @2016-10-23 17:31:12,570 | Thread-3 | iSPOS | -- CashReport_Main...generateCashReport...date = 2016-10-22
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=BEGIN TRANSACTION;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- BEGIN TRANSACTION;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_Cash_Main(BDate,CreatedAt,TimeStart,TimeEnd,StoreID,PosID,QtyOrders,HeaderCounts,TotalSales,NetSales,QtyChangeGiven,TotalChangeGiven,CancelPaidOrderQty,CancelPaidOrderAmt,CancelUnpaidOrderQty,CancelUnpaidOrderAmt,CancelB4Print2KitchenQty,CancelB4Print2KitchenAmt,TotalCancelQty,TotalCancelAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt,SkimQty,SkimAmt,TransferOutQty,TransferOutAmt,TransferInQty,TransferInAmt,OrderPromoQty,OrderPromoAmt,OrderPromoItemQty,ItemPromoQty,ItemPromoAmt,ItemPromoOrderQty,OverChargeQty,OverChargeAmt,RoundingAmt,CouponGivenoutQty,CouponGivenoutAmt,CouponGivenoutOrderQty,CouponGivenoutOrderAmt,DrawerOpenCount,ProdTotalQty,MemberOrderQty,MemeberOrderNetAmt,OperateDrawerInitTotalAmt) Values ('2016-10-22','2016-10-23 17:31:12','2016-10-22 21:57:33','2016-10-23 17:31:12',9997,2,7,0,376.00,376.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0,0.00,7,0,0.00,0.00,0,0.00,0,0.00,0,15,0,0.00,800.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_Cash_Main(BDate,CreatedAt,TimeStart,TimeEnd,StoreID,PosID,QtyOrders,HeaderCounts,TotalSales,NetSales,QtyChangeGiven,TotalChangeGiven,CancelPaidOrderQty,CancelPaidOrderAmt,CancelUnpaidOrderQty,CancelUnpaidOrderAmt,CancelB4Print2KitchenQty,CancelB4Print2KitchenAmt,TotalCancelQty,TotalCancelAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt,SkimQty,SkimAmt,TransferOutQty,TransferOutAmt,TransferInQty,TransferInAmt,OrderPromoQty,OrderPromoAmt,OrderPromoItemQty,ItemPromoQty,ItemPromoAmt,ItemPromoOrderQty,OverChargeQty,OverChargeAmt,RoundingAmt,CouponGivenoutQty,CouponGivenoutAmt,CouponGivenoutOrderQty,CouponGivenoutOrderAmt,DrawerOpenCount,ProdTotalQty,MemberOrderQty,MemeberOrderNetAmt,OperateDrawerInitTotalAmt) Values ('2016-10-22','2016-10-23 17:31:12','2016-10-22 21:57:33','2016-10-23 17:31:12',9997,2,7,0,376.00,376.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0,0.00,7,0,0.00,0.00,0,0.00,0,0.00,0,15,0,0.00,800.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,3,3,180.00,180.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,3,3,180.00,180.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,2,1,1,50.00,50.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,2,1,1,50.00,50.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,48,1,1,48.00,48.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,48,1,1,48.00,48.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,49,2,2,98.00,98.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByType(BDate,StoreID,PosID,TenderID,TenderUsedQty,TenderOrderQty,TenderOriginalAmt,TenderLocalUnitAmt,OverChargeAmt,CreatedAt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,49,2,2,98.00,98.00,0.00,'2016-10-23 17:31:12',0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,0,3,180.00,0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,0,3,180.00,0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,2,1,50.00,0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,2,1,50.00,0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,48,1,48.00,0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,48,1,48.00,0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,49,2,98.00,0,0.00,0,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_PaymentByOrderType(BDate,StoreID,PosID,OrderType,TenderID,OrderQty,TotalTenderAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt) Values ('2016-10-22',9997,2,0,49,2,98.00,0,0.00,0,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_SalesByOrderType(BDate,StoreID,PosID,OrderType,SalesOrderQty,SaleGrossAmt,SaleNetAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt,MemberOrderQty,MemeberOrderNetAmt,OrderPromoQty,OrderPromoItemQty,OrderPromoAmt,ItemPromoOrderQty,ItemPromoQty,ItemPromoAmt) Values ('2016-10-22',9997,2,0,7,376.00,376.00,0,0.00,0,0.00,0,0.00,0,0,0.00,0,7,0.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_SalesByOrderType(BDate,StoreID,PosID,OrderType,SalesOrderQty,SaleGrossAmt,SaleNetAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt,MemberOrderQty,MemeberOrderNetAmt,OrderPromoQty,OrderPromoItemQty,OrderPromoAmt,ItemPromoOrderQty,ItemPromoQty,ItemPromoAmt) Values ('2016-10-22',9997,2,0,7,376.00,376.00,0,0.00,0,0.00,0,0.00,0,0,0.00,0,7,0.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into Rpt_ShiftInfo(BDate,StoreID,PosID,ShiftNo,StartOrderNo,TotalOrderQty,TotalSalesAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt,MemberOrderQty,MmeberOrderNetAmt,OperateDrawerInitAmt) Values ('2016-10-22',9997,2,1,1,7,376.00,0,0.00,0,0.00,0,0.00,800.00);
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- Insert Into Rpt_ShiftInfo(BDate,StoreID,PosID,ShiftNo,StartOrderNo,TotalOrderQty,TotalSalesAmt,OrderRefundQty,OrderRefundAmt,ItemRefundQty,ItemRefundAmt,MemberOrderQty,MmeberOrderNetAmt,OperateDrawerInitAmt) Values ('2016-10-22',9997,2,1,1,7,376.00,0,0.00,0,0.00,0,0.00,800.00) ;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=COMMIT;
+DEBUG @2016-10-23 17:31:12,586 | Thread-3 | iSPOS | -- COMMIT;
+DEBUG @2016-10-23 17:31:12,689 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Log\HistoryReportJson\, Log\HistoryReportJson\9997_2_161022_Cash.json, false ...
+INFO  @2016-10-23 17:31:12,812 | Thread-3 | iSPOS | -- closeStoreLocal_ClearInfo
+INFO  @2016-10-23 17:31:12,812 | pool-5-thread-1 | iSPOS | -- PrintingRequest  call....
+INFO  @2016-10-23 17:31:12,812 | pool-5-thread-1 | iSPOS | -- PrintingRequest  writePrintFile....
+DEBUG @2016-10-23 17:31:12,812 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:12,812 | pool-5-thread-1 | iSPOS | -- Moving file from <PrintFile\PrintFileBak\PRN101\unfinished\072812_99972_f11b07ce.rq> to <PrintFile/PrintFileBak/PRN101/Finished/072812_99972_f11b07ce.rq.end>
+INFO  @2016-10-23 17:31:12,813 | Thread-3 | iSPOS | -- clearSoldoutConfig ...
+DEBUG @2016-10-23 17:31:12,813 | pool-5-thread-1 | iSPOS | -- Utility.delFile ...filepath=PrintFile\PrintFileBak\PRN101\unfinished\072812_99972_f11b07ce.rq success !
+DEBUG @2016-10-23 17:31:12,817 | Thread-3 | iSPOS | -- moveFileByCloseStore...
+DEBUG @2016-10-23 17:31:12,896 | Thread-3 | iSPOS | -- freeAllConnections...
+DEBUG @2016-10-23 17:31:12,954 | Thread-3 | iSPOS | -- backupDBFile ...
+DEBUG @2016-10-23 17:31:12,958 | Thread-3 | iSPOS | -- backupDBFile is true
+DEBUG @2016-10-23 17:31:12,958 | Thread-3 | iSPOS | -- backupLogFile ...
+DEBUG @2016-10-23 17:31:12,958 | Thread-3 | iSPOS | -- backupLogFile is true
+DEBUG @2016-10-23 17:31:12,958 | Thread-3 | iSPOS | -- moveFileByCloseStore is true
+DEBUG @2016-10-23 17:31:12,985 | Thread-3 | iSPOS | -- verifySqliteDatabaseIsOK...
+DEBUG @2016-10-23 17:31:13,103 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into PosHeartBeat (StoreID,StoreOtherID,PosID,LastHeartBeat) Values ('9997','9997','2','2016-10-23 17:31:13');
+DEBUG @2016-10-23 17:31:13,172 | Thread-3 | iSPOS | -- deleteDirectory for path = PrintFile/ReportInfo/OldReportInfo ...
+DEBUG @2016-10-23 17:31:13,173 | Thread-3 | iSPOS | -- deleteDirectory for path = PersistInfo/ ...
+DEBUG @2016-10-23 17:31:13,173 | Thread-3 | iSPOS | -- deleteDirectory for path = PrintFile/Reprint/ ...
+DEBUG @2016-10-23 17:31:13,173 | Thread-3 | iSPOS | -- deleteDirectory for path = D:\A_Eclipse32WorkSpace\iSPOS-LSC-YH - IDEA\PrintFile\Reprint\20161022 ...
+DEBUG @2016-10-23 17:31:13,174 | Thread-3 | iSPOS | -- deleteDirectory for path = PrintFile/PrintFileBak/ ...
+DEBUG @2016-10-23 17:31:13,174 | Thread-3 | iSPOS | -- deleteDirectory for path = D:\A_Eclipse32WorkSpace\iSPOS-LSC-YH - IDEA\PrintFile\PrintFileBak\PRN101 ...
+DEBUG @2016-10-23 17:31:13,174 | Thread-3 | iSPOS | -- deleteDirectory for path = D:\A_Eclipse32WorkSpace\iSPOS-LSC-YH - IDEA\PrintFile\PrintFileBak\PRN101\Finished ...
+DEBUG @2016-10-23 17:31:13,175 | Thread-3 | iSPOS | -- deleteDirectory for path = D:\A_Eclipse32WorkSpace\iSPOS-LSC-YH - IDEA\PrintFile\PrintFileBak\PRN101\unfinished ...
+DEBUG @2016-10-23 17:31:13,175 | Thread-3 | iSPOS | -- saveReportContentToOldReportInfoByReportInfo ...oldPath=PrintFile/ReportInfo/,newPath=PrintFile/ReportInfo/OldReportInfo/
+DEBUG @2016-10-23 17:31:13,176 | Thread-3 | iSPOS | -- Utility.delFile ...filepath=D:\A_Eclipse32WorkSpace\iSPOS-LSC-YH - IDEA\PrintFile\ReportInfo\SHIFT_20161022_9997_2_1_ÊÕÒøÔ±1 success !
+INFO  @2016-10-23 17:31:13,180 | Thread-3 | iSPOS | -- findAndDelFileFromSqlDone--- path:Log\DBBack,date:Sun Oct 23 17:31:13 CST 2016daysKeep:90,isSqlClear:false
+INFO  @2016-10-23 17:31:13,202 | Thread-3 | iSPOS | -- findAndDelFileFromSqlDone--- path:Log\LogBack,date:Sun Oct 23 17:31:13 CST 2016daysKeep:90,isSqlClear:false
+INFO  @2016-10-23 17:31:13,202 | Thread-3 | iSPOS | -- findAndDelFileFromSqlDone--- path:sql\done,date:Sun Oct 23 17:31:13 CST 2016daysKeep:90,isSqlClear:true
+INFO  @2016-10-23 17:31:13,202 | Thread-3 | iSPOS | -- findAndDelFileFromSqlDone--- path:Log\HistoryReport\,date:Sun Oct 23 17:31:13 CST 2016daysKeep:90,isSqlClear:false
+INFO  @2016-10-23 17:31:13,203 | Thread-3 | iSPOS | -- findAndDelFileFromSqlDone--- path:Log\HistoryReportJson\,date:Sun Oct 23 17:31:13 CST 2016daysKeep:90,isSqlClear:false
+DEBUG @2016-10-23 17:31:13,204 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- randomCheckLicense ...lockUI=true
+INFO  @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- checkUpdateSoftwareUpdate...
+INFO  @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- hasUpdateZip with updatePackage = ISUPDATE ...
+DEBUG @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- getLocalZipFileList in path = D:\Update\ ...
+INFO  @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- checkUpdate with updatePackage = TSPOS ...
+INFO  @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- hasUpdateZip with updatePackage = TSPOS ...
+DEBUG @2016-10-23 17:31:14,745 | Thread-3 | iSPOS | -- getLocalZipFileList in path = D:\Update\ ...
+DEBUG @2016-10-23 17:31:15,352 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_backToPreviousScreen
+INFO  @2016-10-23 17:31:15,353 | Thread-3 | iSPOS | -- BackToPreviousScreen---
+DEBUG @2016-10-23 17:31:15,353 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 11, true  ¡£¡£¡£
+INFO  @2016-10-23 17:31:15,353 | Thread-3 | iSPOS | -- ¼ÓÔØ¾­Àí½çÃæÇ°¡ª¡ªÖ´ÐÐOrderNotInProgress()·½·¨
+INFO  @2016-10-23 17:31:15,354 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:11
+DEBUG @2016-10-23 17:31:16,327 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_OpenStoreLocal
+INFO  @2016-10-23 17:31:16,327 | Thread-3 | iSPOS | -- openStoreLocal ...
+DEBUG @2016-10-23 17:31:16,327 | Thread-3 | iSPOS | -- openStoreCheck ...
+INFO  @2016-10-23 17:31:16,329 | Thread-3 | iSPOS | -- existLog returned false
+DEBUG @2016-10-23 17:31:16,330 | Thread-3 | iSPOS | -- backupDBFileAndLogFile...
+DEBUG @2016-10-23 17:31:16,330 | Thread-3 | iSPOS | -- freeAllConnections...
+INFO  @2016-10-23 17:31:17,124 | Thread-3 | iSPOS | -- openStoreLocalAfterChecking ...
+DEBUG @2016-10-23 17:31:17,124 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:17,124 | Thread-3 | iSPOS | -- existLog returned false
+INFO  @2016-10-23 17:31:17,124 | Thread-3 | iSPOS | -- POSController.openStoreLocal_InitInfo...
+DEBUG @2016-10-23 17:31:17,124 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:17,125 | Thread-3 | iSPOS | -- verifySqliteDatabaseIsOK...
+DEBUG @2016-10-23 17:31:17,241 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into PosHeartBeat (StoreID,StoreOtherID,PosID,LastHeartBeat) Values ('9997','9997','2','2016-10-23 17:31:17');
+INFO  @2016-10-23 17:31:17,289 | Thread-3 | iSPOS | -- POSCore.openStoreLocal_InitInfo...
+DEBUG @2016-10-23 17:31:17,351 | Thread-3 | iSPOS | -- Utility.delFile ...filepath=Log\current.log success !
+DEBUG @2016-10-23 17:31:17,351 | Thread-3 | iSPOS | -- freeAllConnections...
+DEBUG @2016-10-23 17:31:17,412 | Thread-3 | iSPOS | -- Utility.delFile ...filepath=database\current.DB success !
+INFO  @2016-10-23 17:31:17,412 | Thread-3 | iSPOS | -- POSController.storeOperation_SaveToDB...storeStatus=2,totalOrderQty=0,totalOrderAmt=0.0,lastOperation=openStoreLocalAfterChecking:SaveToDB
+INFO  @2016-10-23 17:31:17,412 | Thread-3 | iSPOS | -- storeOperation_SaveToDB...POSCore...storeOpType=2,lastOperation=openStoreLocalAfterChecking:SaveToDB
+DEBUG @2016-10-23 17:31:17,412 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:17,530 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into StoreOperationInfo (StoreID,PosID,BusinessDate,ManagerID,OrderCalendarDate,OperateTime,StoreOpType,TotalOrderQty,TotalOrderAmt,StoreOtherID,POSVer,ConfVer) Values ('9997','2','2016-10-23','888','2016-10-23','2016-10-23 17:31:17',2,0,0.0,'9997','1.0.37','5');
+DEBUG @2016-10-23 17:31:17,681 | Thread-3 | iSPOS | -- POSController.storeOperation_SaveToDB...return res = 1
+DEBUG @2016-10-23 17:31:17,681 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:17,681 | Thread-3 | iSPOS | -- openStoreLocal_ClearInfo...isLocal = true
+DEBUG @2016-10-23 17:31:17,681 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:17,681 | Thread-3 | iSPOS | -- Initial DiscountManager...
+INFO  @2016-10-23 17:31:17,681 | Thread-3 | iSPOS | -- initAllDiscounts ...
+INFO  @2016-10-23 17:31:17,682 | Thread-3 | iSPOS | --  inital discount with ID: 1001 done.
+INFO  @2016-10-23 17:31:17,682 | Thread-3 | iSPOS | --  inital discount with ID: 1002 done.
+INFO  @2016-10-23 17:31:17,682 | Thread-3 | iSPOS | --  inital discount with ID: 1003 done.
+INFO  @2016-10-23 17:31:17,682 | Thread-3 | iSPOS | --  inital discount with ID: 1004 done.
+INFO  @2016-10-23 17:31:17,682 | Thread-3 | iSPOS | --  inital discount with ID: 1005 done.
+INFO  @2016-10-23 17:31:17,683 | Thread-3 | iSPOS | --  inital discount with ID: 1006 done.
+INFO  @2016-10-23 17:31:17,683 | Thread-3 | iSPOS | --  inital discount with ID: 1007 done.
+INFO  @2016-10-23 17:31:17,683 | Thread-3 | iSPOS | --  inital discount with ID: 1008 done.
+INFO  @2016-10-23 17:31:17,683 | Thread-3 | iSPOS | --  inital discount with ID: 1009 done.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | --  inital discount with ID: 1010 done.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | --  inital discount with ID: 1011 done.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | --  inital discount with ID: 1012 done.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | --  inital discount with ID: 1013 done.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | -- initAllDiscounts Done.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | -- initAllDiscounts - add discounts to different ApplyAt classes.
+INFO  @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | -- É¾³ýlastOrder.tmpÎÄ¼þÊ§°Ü£¡
+DEBUG @2016-10-23 17:31:17,684 | Thread-3 | iSPOS | -- deleteDirectory for path = PrintFile/Reprint/ ...
+DEBUG @2016-10-23 17:31:17,685 | Thread-3 | iSPOS | -- deleteDirectory for path = PrintFile/PrintFileBak/ ...
+DEBUG @2016-10-23 17:31:17,685 | Thread-3 | iSPOS | -- deleteDirectory for path = PersistInfo/ ...
+INFO  @2016-10-23 17:31:17,685 | Thread-3 | iSPOS | -- clearSavedOrder ...
+DEBUG @2016-10-23 17:31:17,685 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:18,186 | Thread-3 | iSPOS | -- POSController.checkAndUpdateLicense()...showConfirm=false
+INFO  @2016-10-23 17:31:18,186 | Thread-3 | iSPOS | -- hasUpdateZip with updatePackage = LIC ...
+DEBUG @2016-10-23 17:31:18,186 | Thread-3 | iSPOS | -- getLocalZipFileList in path = D:\Update\ ...
+INFO  @2016-10-23 17:31:18,186 | Thread-3 | iSPOS | -- checkUpdate with updatePackage = TSCONFIG ...
+INFO  @2016-10-23 17:31:18,186 | Thread-3 | iSPOS | -- hasUpdateZip with updatePackage = TSCONFIG ...
+DEBUG @2016-10-23 17:31:18,186 | Thread-3 | iSPOS | -- getLocalZipFileList in path = D:\Update\ ...
+DEBUG @2016-10-23 17:31:18,742 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_LoginCashier
+INFO  @2016-10-23 17:31:18,742 | Thread-3 | iSPOS | -- loginOperator ...
+DEBUG @2016-10-23 17:31:18,742 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:18,788 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 17:31:18,788 | Thread-3 | iSPOS | -- Current Scanned Code = C
+INFO  @2016-10-23 17:31:18,803 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 17:31:18,803 | Thread-3 | iSPOS | -- Current Scanned Code = C!
+INFO  @2016-10-23 17:31:19,976 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 17:31:19,976 | Thread-3 | iSPOS | -- Current Scanned Code = C!C
+INFO  @2016-10-23 17:31:19,993 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 17:31:19,993 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!
+DEBUG @2016-10-23 17:31:21,139 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:21,139 | Thread-3 | iSPOS | -- POSController.operatorOperation_SaveToDB...operateAmt=800.0,changeType=0,totalOrderQty=0,totalOrderAmt=0.0,lastOperation=loginOperator:SaveToDB
+INFO  @2016-10-23 17:31:21,139 | Thread-3 | iSPOS | -- operatorOperation_SaveToDB...POSCore
+DEBUG @2016-10-23 17:31:21,139 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:21,140 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into DrawerChangeInfo (StoreID,PosID,BusinessDate,OperatorID,ManagerID,OrderCalendarDate,OperateTime,OperateAmt,ChangeType,FirstOrderID,LastOrderID,TotalOrderQty,TotalOrderAmt,StoreOtherID) Values ('9997','2','2016-10-23','001','888','2016-10-23','2016-10-23 17:31:21',800.0,0,'1','',0,0.0,'9997');
+DEBUG @2016-10-23 17:31:21,297 | Thread-3 | iSPOS | -- POSController.operatorOperation_SaveToDB return res = 1
+INFO  @2016-10-23 17:31:21,297 | Thread-3 | iSPOS | -- loginOperator_WriteLog...
+DEBUG @2016-10-23 17:31:21,297 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:21,297 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:21,299 | Thread-3 | iSPOS | -- ¹ñÔ±µÇÂ½Ê±É¾³ýlastOrder.tmpÎÄ¼þÊ§°Ü£¡
+INFO  @2016-10-23 17:31:21,299 | pool-5-thread-1 | iSPOS | -- PrintingRequest  call....
+INFO  @2016-10-23 17:31:21,299 | Thread-3 | iSPOS | -- loginOperator:RefreshUI
+DEBUG @2016-10-23 17:31:21,299 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:31:21,299 | pool-5-thread-1 | iSPOS | -- PrintingRequest  writePrintFile....
+INFO  @2016-10-23 17:31:21,299 | pool-5-thread-1 | iSPOS | -- Moving file from <PrintFile\PrintFileBak\PRN101\unfinished\081298_99972_f7f198fe.rq> to <PrintFile/PrintFileBak/PRN101/Finished/081298_99972_f7f198fe.rq.end>
+DEBUG @2016-10-23 17:31:21,300 | pool-5-thread-1 | iSPOS | -- Utility.delFile ...filepath=PrintFile\PrintFileBak\PRN101\unfinished\081298_99972_f7f198fe.rq success !
+DEBUG @2016-10-23 17:31:22,096 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:31:23,094 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_backToPreviousScreen
+INFO  @2016-10-23 17:31:23,094 | Thread-3 | iSPOS | -- BackToPreviousScreen---
+DEBUG @2016-10-23 17:31:23,094 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 17:31:23,096 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+DEBUG @2016-10-23 17:31:24,007 | Thread-3 | iSPOS | -- postKey on button pCode = 1000001. Action = null
+DEBUG @2016-10-23 17:31:24,007 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-23 17:31:24,011 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000001
+DEBUG @2016-10-23 17:31:24,011 | Thread-3 | iSPOS | -- startOfNewOrder ¡£¡£¡£
+INFO  @2016-10-23 17:31:24,012 | Thread-3 | iSPOS | -- OkForSell ...code=1000001
+DEBUG @2016-10-23 17:31:24,012 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-23 17:31:24,012 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-23 17:31:24,013 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,013 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-23 17:31:24,013 | pool-7-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 17:31:24,015 | pool-7-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 17:31:24,015 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 1000001 ...
+DEBUG @2016-10-23 17:31:24,015 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 1000001 ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,015 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 1000001  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,015 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,470 | Thread-3 | iSPOS | -- postKey on button pCode = 1000002. Action = null
+DEBUG @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000002
+INFO  @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- OkForSell ...code=1000002
+DEBUG @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,471 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-23 17:31:24,472 | pool-7-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 17:31:24,472 | pool-7-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 17:31:24,472 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 1000002 ...
+DEBUG @2016-10-23 17:31:24,472 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 1000002 ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,472 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 1000002  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:24,472 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-23 17:31:25,398 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_Total 0
+DEBUG @2016-10-23 17:31:25,398 | Thread-3 | iSPOS | -- orderTotal with orderType = 0 ...
+INFO  @2016-10-23 17:31:25,399 | pool-7-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 17:31:25,399 | pool-7-thread-1 | iSPOS | -- initAllDiscounts - reconstruct discounts
+INFO  @2016-10-23 17:31:25,401 | pool-7-thread-1 | iSPOS | -- performAllTotaledDiscounts writeLog = true ...
+INFO  @2016-10-23 17:31:25,401 | Thread-3 | iSPOS | -- getPlateNumber... orderNumber:1
+DEBUG @2016-10-23 17:31:25,401 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 17:31:25,402 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 6000, true  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:25,429 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+INFO  @2016-10-23 17:31:25,436 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:6000
+DEBUG @2016-10-23 17:31:25,437 | Thread-3 | iSPOS | -- updateOrderViewAndShowPayInfo ¡£¡£¡£
+DEBUG @2016-10-23 17:31:25,439 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 17:31:25,439 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+INFO  @2016-10-23 17:31:25,440 | Thread-3 | iSPOS | -- POSCore  calculateAmountsGroup...
+DEBUG @2016-10-23 17:31:25,440 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:25,440 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:31,990 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 17:31:31,991 | Thread-3 | iSPOS | -- payByAliPay ...
+DEBUG @2016-10-23 17:31:34,479 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByWeChatPay
+INFO  @2016-10-23 17:31:34,479 | Thread-3 | iSPOS | -- payByWeChatPay ...
+DEBUG @2016-10-23 17:31:36,063 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 17:31:36,063 | Thread-3 | iSPOS | -- payByAliPay ...
+DEBUG @2016-10-23 17:31:37,455 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByWeChatPay
+INFO  @2016-10-23 17:31:37,455 | Thread-3 | iSPOS | -- payByWeChatPay ...
+DEBUG @2016-10-23 17:31:39,054 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByWeChatPay
+INFO  @2016-10-23 17:31:39,055 | Thread-3 | iSPOS | -- payByWeChatPay ...
+DEBUG @2016-10-23 17:31:40,214 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 17:31:40,214 | Thread-3 | iSPOS | -- payByAliPay ...
+DEBUG @2016-10-23 17:31:41,574 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ReturnSales
+DEBUG @2016-10-23 17:31:41,574 | Thread-3 | iSPOS | -- returnToSales ...
+INFO  @2016-10-23 17:31:41,574 | Thread-3 | iSPOS | -- gotoSalesPanel ...
+DEBUG @2016-10-23 17:31:41,574 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 17:31:41,579 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+INFO  @2016-10-23 17:31:41,580 | pool-7-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 17:31:41,580 | pool-7-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 17:31:41,580 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode =  ¡£¡£¡£
+DEBUG @2016-10-23 17:31:41,580 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode =   ¡£¡£¡£
+DEBUG @2016-10-23 17:31:41,580 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+INFO  @2016-10-23 17:35:40,807 | main | iSPOS | -- POSControllerToolKit -- findProcess  processName=iSPOS.exe
+INFO  @2016-10-23 17:35:42,094 | Thread-3 | iSPOS | -- posType=SS
+INFO  @2016-10-23 17:35:42,109 | Thread-3 | iSPOS | -- Configuration  initAmounts...
+INFO  @2016-10-23 17:35:42,109 | Thread-3 | iSPOS | -- ConfigurationManager...initTenderTypes...
+ERROR @2016-10-23 17:35:42,540 | Thread-3 | iSPOS | -- !! console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0.
+DEBUG @2016-10-23 17:35:44,745 | Thread-3 | iSPOS | -- setScriptVersion ...version:$Revision: 1754 $
+DEBUG @2016-10-23 17:35:44,785 | Thread-3 | iSPOS | -- POSCore init currentUuid=535662220
+INFO  @2016-10-23 17:35:44,794 | Thread-3 | iSPOS | -- initLocalServices ...
+INFO  @2016-10-23 17:35:44,795 | Thread-3 | iSPOS | -- Started up Service POS POS2.
+DEBUG @2016-10-23 17:35:44,835 | Thread-3 | iSPOS | -- setSerialPort(.tmp) ...
+INFO  @2016-10-23 17:35:44,835 | Thread-3 | iSPOS | -- initialise printer PRN101 on port Com.tmp with baud rate = 9600
+INFO  @2016-10-23 17:35:44,835 | Thread-3 | iSPOS | -- Started up Service PRN PRN101.
+ERROR @2016-10-23 17:35:44,934 | Thread-3 | iSPOS | -- Exception in decrypt(8cafc860ed74b5f9) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:91)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+ERROR @2016-10-23 17:35:44,934 | Thread-3 | iSPOS | -- Exception in decrypt(edb3f9a33fb123b0435e908dbd4d895faca0b3ed4aa70811) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:92)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 17:35:44,935 | Thread-3 | iSPOS | -- ThreadMonitor is monitoring the following networking threads:
+<BroadcastClientThread,Thread-9>;
+<POSTCPIPServer,Thread-7>;
+<ServerPackageFTP,Thread-10>;
+<POSBroadcastServer,Thread-8>;
+
+INFO  @2016-10-23 17:35:44,936 | Thread-3 | iSPOS | -- posStartup...
+ERROR @2016-10-23 17:35:45,209 | Thread-3 | iSPOS | -- Cannot find image file Images/1024x768/statusbarbk.png for net.TalentSolution.TSPOS.UI.Label_StatusBar
+DEBUG @2016-10-23 17:35:45,268 | Thread-3 | iSPOS | -- backupDBFileAndLogFile...
+DEBUG @2016-10-23 17:35:45,269 | Thread-3 | iSPOS | -- reconstitutionLastDBAndLog...lastLogFile=9997_2_161023.log,lastDBFile=9997_2_161023.DB
+DEBUG @2016-10-23 17:35:45,269 | Thread-3 | iSPOS | -- Reconstruct order(reconstitutionOrder)
+DEBUG @2016-10-23 17:35:45,275 | Thread-3 | iSPOS | -- recoverLastOrderAndRefreshScreen ...
+INFO  @2016-10-23 17:35:45,275 | Thread-3 | iSPOS | -- recoverLastOrder ...
+INFO  @2016-10-23 17:35:45,285 | Thread-3 | iSPOS | -- recoverLastOrder0 ...
+INFO  @2016-10-23 17:35:45,285 | Thread-3 | iSPOS | -- gotoSalesPanel ...
+DEBUG @2016-10-23 17:35:45,285 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 17:35:45,287 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+INFO  @2016-10-23 17:35:45,289 | Thread-3 | iSPOS | -- Initial DiscountManager...
+INFO  @2016-10-23 17:35:45,289 | Thread-3 | iSPOS | -- initAllDiscounts ...
+INFO  @2016-10-23 17:35:45,294 | Thread-3 | iSPOS | --  inital discount with ID: 1001 done.
+INFO  @2016-10-23 17:35:45,294 | Thread-3 | iSPOS | --  inital discount with ID: 1002 done.
+INFO  @2016-10-23 17:35:45,294 | Thread-3 | iSPOS | --  inital discount with ID: 1003 done.
+INFO  @2016-10-23 17:35:45,294 | Thread-3 | iSPOS | --  inital discount with ID: 1004 done.
+INFO  @2016-10-23 17:35:45,295 | Thread-3 | iSPOS | --  inital discount with ID: 1005 done.
+INFO  @2016-10-23 17:35:45,295 | Thread-3 | iSPOS | --  inital discount with ID: 1006 done.
+INFO  @2016-10-23 17:35:45,295 | Thread-3 | iSPOS | --  inital discount with ID: 1007 done.
+INFO  @2016-10-23 17:35:45,295 | Thread-3 | iSPOS | --  inital discount with ID: 1008 done.
+INFO  @2016-10-23 17:35:45,295 | Thread-3 | iSPOS | --  inital discount with ID: 1009 done.
+INFO  @2016-10-23 17:35:45,296 | Thread-3 | iSPOS | --  inital discount with ID: 1010 done.
+INFO  @2016-10-23 17:35:45,297 | Thread-3 | iSPOS | --  inital discount with ID: 1011 done.
+INFO  @2016-10-23 17:35:45,297 | Thread-3 | iSPOS | --  inital discount with ID: 1012 done.
+INFO  @2016-10-23 17:35:45,297 | Thread-3 | iSPOS | --  inital discount with ID: 1013 done.
+INFO  @2016-10-23 17:35:45,297 | Thread-3 | iSPOS | -- initAllDiscounts Done.
+INFO  @2016-10-23 17:35:45,297 | Thread-3 | iSPOS | -- initAllDiscounts - add discounts to different ApplyAt classes.
+INFO  @2016-10-23 17:35:45,298 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 17:35:45,298 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 17:35:45,299 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode =  ¡£¡£¡£
+DEBUG @2016-10-23 17:35:45,299 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode =   ¡£¡£¡£
+DEBUG @2016-10-23 17:35:45,299 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+INFO  @2016-10-23 17:35:45,305 | Thread-3 | iSPOS | -- UI loaded...
+DEBUG @2016-10-23 17:35:46,305 | Thread-3 | iSPOS | -- verifyAndRepairLastOperationAndVerifyDB ...
+DEBUG @2016-10-23 17:35:46,305 | Thread-3 | iSPOS | -- verifySqliteDatabaseIsOK...
+DEBUG @2016-10-23 17:35:46,497 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into PosHeartBeat (StoreID,StoreOtherID,PosID,LastHeartBeat) Values ('9997','9997','2','2016-10-23 17:35:46');
+DEBUG @2016-10-23 17:35:46,577 | Thread-3 | iSPOS | -- setPOSStartToFinished...POSStartToFinished=true
+DEBUG @2016-10-23 17:35:48,991 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_Total 0
+DEBUG @2016-10-23 17:35:48,992 | Thread-3 | iSPOS | -- orderTotal with orderType = 0 ...
+INFO  @2016-10-23 17:35:48,993 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 17:35:48,993 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - reconstruct discounts
+INFO  @2016-10-23 17:35:48,994 | pool-6-thread-1 | iSPOS | -- performAllTotaledDiscounts writeLog = true ...
+INFO  @2016-10-23 17:35:48,994 | Thread-3 | iSPOS | -- getPlateNumber... orderNumber:1
+DEBUG @2016-10-23 17:35:48,995 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 17:35:48,995 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 6000, true  ¡£¡£¡£
+DEBUG @2016-10-23 17:35:49,006 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+INFO  @2016-10-23 17:35:49,011 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:6000
+DEBUG @2016-10-23 17:35:49,011 | Thread-3 | iSPOS | -- updateOrderViewAndShowPayInfo ¡£¡£¡£
+DEBUG @2016-10-23 17:35:49,013 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 17:35:49,013 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+INFO  @2016-10-23 17:35:49,015 | Thread-3 | iSPOS | -- POSCore  calculateAmountsGroup...
+DEBUG @2016-10-23 17:35:49,015 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:35:49,015 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:35:50,743 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 17:35:50,743 | Thread-3 | iSPOS | -- payByAliPay ...
+ERROR @2016-10-23 17:35:59,726 | Thread-3 | iSPOS | -- Exception in payByAliPay -
+java.lang.NullPointerException
+	at net.TalentSolution.TSPOS.Payment.Payments.payByAliPay(Payments.java:605)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:186)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:204)
+	at org.python.core.PyObject.__call__(PyObject.java:461)
+	at org.python.core.PyObject.__call__(PyObject.java:465)
+	at org.python.core.PyMethod.__call__(PyMethod.java:126)
+	at org.python.pycode._pyx3.JYOC_PayByAliPay$1(<string>:9)
+	at org.python.pycode._pyx3.call_function(<string>)
+	at org.python.core.PyTableCode.call(PyTableCode.java:167)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:138)
+	at org.python.core.PyFunction.__call__(PyFunction.java:413)
+	at org.python.core.PyFunction.__call__(PyFunction.java:408)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.callJython(JythonControllerManager.java:37)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.call(JythonControllerManager.java:63)
+	at net.TalentSolution.TSPOS.POSController.POSController.postKey(POSController.java:421)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.postKey(CustomerUIManager.java:383)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.trolltech.qt.internal.QSignalEmitterInternal$AbstractSignalInternal.emit_helper(QSignalEmitterInternal.java:400)
+	at com.trolltech.qt.QSignalEmitter$Signal1.emit(QSignalEmitter.java:210)
+	at com.trolltech.qt.gui.QApplication.exec_internal(Native Method)
+	at com.trolltech.qt.gui.QApplication.execStatic(QApplication.java:574)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:121)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 17:35:59,736 | Thread-3 | iSPOS | -- Scanned Code =
+DEBUG @2016-10-23 17:35:59,736 | Thread-3 | iSPOS | -- processScannerData ...
+DEBUG @2016-10-23 17:36:05,903 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 17:36:05,903 | Thread-3 | iSPOS | -- payByAliPay ...
+DEBUG @2016-10-23 17:36:17,383 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+INFO  @2016-10-23 17:36:17,384 | Thread-3 | iSPOS | -- saveCurrentOrder: file-- lastOrder.tmp
+DEBUG @2016-10-23 17:36:17,385 | Thread-3 | iSPOS | -- PosController -- saveCurrentOrderToBackup ...
+DEBUG @2016-10-23 17:36:17,385 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 17:36:17,385 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:36:17,385 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 17:36:17,387 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 17:36:17,389 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+ERROR @2016-10-23 17:39:05,939 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 17:39:06,001 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+ERROR @2016-10-23 17:54:27,002 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 17:54:27,080 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+ERROR @2016-10-23 18:09:48,083 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 18:09:48,144 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+ERROR @2016-10-23 18:25:09,146 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 18:25:09,221 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+ERROR @2016-10-23 18:40:30,224 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 18:40:30,283 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+ERROR @2016-10-23 18:55:51,286 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 18:55:51,345 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+ERROR @2016-10-23 19:11:12,349 | Thread-10 | iSPOS | -- Exception in ServerPackageFTP:run -
+java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:182)
+	at org.apache.commons.net.SocketClient.connect(SocketClient.java:203)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.TS_FTPClient.connect(TS_FTPClient.java:61)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.connect(ServerPackageFTP.java:134)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.run(ServerPackageFTP.java:236)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:11:12,408 | Thread-10 | iSPOS | -- Ë¯15·ÖÖÓ
+INFO  @2016-10-23 19:25:01,361 | main | iSPOS | -- POSControllerToolKit -- findProcess  processName=iSPOS.exe
+INFO  @2016-10-23 19:25:02,678 | Thread-3 | iSPOS | -- posType=SS
+INFO  @2016-10-23 19:25:02,695 | Thread-3 | iSPOS | -- Configuration  initAmounts...
+INFO  @2016-10-23 19:25:02,695 | Thread-3 | iSPOS | -- ConfigurationManager...initTenderTypes...
+ERROR @2016-10-23 19:25:03,127 | Thread-3 | iSPOS | -- !! console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0.
+DEBUG @2016-10-23 19:25:05,316 | Thread-3 | iSPOS | -- setScriptVersion ...version:$Revision: 1754 $
+DEBUG @2016-10-23 19:25:05,355 | Thread-3 | iSPOS | -- POSCore init currentUuid=535662220
+INFO  @2016-10-23 19:25:05,363 | Thread-3 | iSPOS | -- initLocalServices ...
+INFO  @2016-10-23 19:25:05,365 | Thread-3 | iSPOS | -- Started up Service POS POS2.
+DEBUG @2016-10-23 19:25:05,405 | Thread-3 | iSPOS | -- setSerialPort(.tmp) ...
+INFO  @2016-10-23 19:25:05,405 | Thread-3 | iSPOS | -- initialise printer PRN101 on port Com.tmp with baud rate = 9600
+INFO  @2016-10-23 19:25:05,405 | Thread-3 | iSPOS | -- Started up Service PRN PRN101.
+ERROR @2016-10-23 19:25:05,506 | Thread-3 | iSPOS | -- Exception in decrypt(8cafc860ed74b5f9) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:91)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+ERROR @2016-10-23 19:25:05,507 | Thread-3 | iSPOS | -- Exception in decrypt(edb3f9a33fb123b0435e908dbd4d895faca0b3ed4aa70811) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:92)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:25:05,508 | Thread-3 | iSPOS | -- ThreadMonitor is monitoring the following networking threads:
+<BroadcastClientThread,Thread-9>;
+<POSTCPIPServer,Thread-7>;
+<ServerPackageFTP,Thread-10>;
+<POSBroadcastServer,Thread-8>;
+
+INFO  @2016-10-23 19:25:05,508 | Thread-3 | iSPOS | -- posStartup...
+ERROR @2016-10-23 19:25:05,782 | Thread-3 | iSPOS | -- Cannot find image file Images/1024x768/statusbarbk.png for net.TalentSolution.TSPOS.UI.Label_StatusBar
+DEBUG @2016-10-23 19:25:05,840 | Thread-3 | iSPOS | -- backupDBFileAndLogFile...
+DEBUG @2016-10-23 19:25:05,841 | Thread-3 | iSPOS | -- reconstitutionLastDBAndLog...lastLogFile=9997_2_161023.log,lastDBFile=9997_2_161023.DB
+DEBUG @2016-10-23 19:25:05,841 | Thread-3 | iSPOS | -- Reconstruct order(reconstitutionOrder)
+DEBUG @2016-10-23 19:25:05,847 | Thread-3 | iSPOS | -- recoverLastOrderAndRefreshScreen ...
+DEBUG @2016-10-23 19:25:05,848 | Thread-3 | iSPOS | -- PosController -- saveCurrentOrderToBackup ...
+INFO  @2016-10-23 19:25:05,849 | Thread-3 | iSPOS | -- UI loaded...
+DEBUG @2016-10-23 19:25:06,850 | Thread-3 | iSPOS | -- verifyAndRepairLastOperationAndVerifyDB ...
+DEBUG @2016-10-23 19:25:06,870 | Thread-3 | iSPOS | -- verifyAndRepairLastOrder... operationInfo=setCancelOrder:RefreshUI:normalOrder
+DEBUG @2016-10-23 19:25:06,870 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 19:25:06,870 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:06,870 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:06,871 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = Data, Data\lastOp.rec, false ...
+DEBUG @2016-10-23 19:25:06,872 | Thread-3 | iSPOS | -- verifySqliteDatabaseIsOK...
+DEBUG @2016-10-23 19:25:07,065 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into PosHeartBeat (StoreID,StoreOtherID,PosID,LastHeartBeat) Values ('9997','9997','2','2016-10-23 19:25:07');
+DEBUG @2016-10-23 19:25:07,114 | Thread-3 | iSPOS | -- setPOSStartToFinished...POSStartToFinished=true
+DEBUG @2016-10-23 19:25:09,013 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_StartMenuAreaAndCloseCustomerView
+DEBUG @2016-10-23 19:25:09,629 | Thread-3 | iSPOS | -- postKey on button pCode = 1000001. Action = null
+DEBUG @2016-10-23 19:25:09,629 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-23 19:25:09,637 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000001
+DEBUG @2016-10-23 19:25:09,637 | Thread-3 | iSPOS | -- startOfNewOrder ¡£¡£¡£
+INFO  @2016-10-23 19:25:09,639 | Thread-3 | iSPOS | -- OkForSell ...code=1000001
+DEBUG @2016-10-23 19:25:09,640 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-23 19:25:09,640 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-23 19:25:09,641 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,641 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-23 19:25:09,642 | Thread-3 | iSPOS | -- Initial DiscountManager...
+INFO  @2016-10-23 19:25:09,642 | Thread-3 | iSPOS | -- initAllDiscounts ...
+INFO  @2016-10-23 19:25:09,647 | Thread-3 | iSPOS | --  inital discount with ID: 1001 done.
+INFO  @2016-10-23 19:25:09,648 | Thread-3 | iSPOS | --  inital discount with ID: 1002 done.
+INFO  @2016-10-23 19:25:09,648 | Thread-3 | iSPOS | --  inital discount with ID: 1003 done.
+INFO  @2016-10-23 19:25:09,648 | Thread-3 | iSPOS | --  inital discount with ID: 1004 done.
+INFO  @2016-10-23 19:25:09,648 | Thread-3 | iSPOS | --  inital discount with ID: 1005 done.
+INFO  @2016-10-23 19:25:09,648 | Thread-3 | iSPOS | --  inital discount with ID: 1006 done.
+INFO  @2016-10-23 19:25:09,648 | Thread-3 | iSPOS | --  inital discount with ID: 1007 done.
+INFO  @2016-10-23 19:25:09,649 | Thread-3 | iSPOS | --  inital discount with ID: 1008 done.
+INFO  @2016-10-23 19:25:09,649 | Thread-3 | iSPOS | --  inital discount with ID: 1009 done.
+INFO  @2016-10-23 19:25:09,650 | Thread-3 | iSPOS | --  inital discount with ID: 1010 done.
+INFO  @2016-10-23 19:25:09,651 | Thread-3 | iSPOS | --  inital discount with ID: 1011 done.
+INFO  @2016-10-23 19:25:09,652 | Thread-3 | iSPOS | --  inital discount with ID: 1012 done.
+INFO  @2016-10-23 19:25:09,652 | Thread-3 | iSPOS | --  inital discount with ID: 1013 done.
+INFO  @2016-10-23 19:25:09,652 | Thread-3 | iSPOS | -- initAllDiscounts Done.
+INFO  @2016-10-23 19:25:09,652 | Thread-3 | iSPOS | -- initAllDiscounts - add discounts to different ApplyAt classes.
+INFO  @2016-10-23 19:25:09,653 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 19:25:09,654 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 19:25:09,654 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 1000001 ...
+DEBUG @2016-10-23 19:25:09,654 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 1000001 ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,654 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 1000001  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,654 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,957 | Thread-3 | iSPOS | -- postKey on button pCode = 1000002. Action = null
+DEBUG @2016-10-23 19:25:09,957 | Thread-3 | iSPOS | -- checkAvailable ...
+INFO  @2016-10-23 19:25:09,957 | Thread-3 | iSPOS | -- chooseProduct pCode = 1000002
+INFO  @2016-10-23 19:25:09,957 | Thread-3 | iSPOS | -- OkForSell ...code=1000002
+DEBUG @2016-10-23 19:25:09,957 | Thread-3 | iSPOS | -- writeFile: path, name, isAppen = , UUID.cnt, false ...
+DEBUG @2016-10-23 19:25:09,958 | Thread-3 | iSPOS | -- refreshCore ...
+DEBUG @2016-10-23 19:25:09,958 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,958 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+INFO  @2016-10-23 19:25:09,958 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 19:25:09,958 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 19:25:09,958 | Thread-3 | iSPOS | -- setmealReminderControl with pcode = 1000002 ...
+DEBUG @2016-10-23 19:25:09,958 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode = 1000002 ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,958 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode = 1000002  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:09,959 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-23 19:25:10,709 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_Total 0
+DEBUG @2016-10-23 19:25:10,709 | Thread-3 | iSPOS | -- orderTotal with orderType = 0 ...
+INFO  @2016-10-23 19:25:10,709 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 19:25:10,709 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - reconstruct discounts
+INFO  @2016-10-23 19:25:10,712 | pool-6-thread-1 | iSPOS | -- performAllTotaledDiscounts writeLog = true ...
+INFO  @2016-10-23 19:25:10,712 | Thread-3 | iSPOS | -- getPlateNumber... orderNumber:2
+DEBUG @2016-10-23 19:25:10,712 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 19:25:10,713 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 6000, true  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:10,723 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+INFO  @2016-10-23 19:25:10,729 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:6000
+DEBUG @2016-10-23 19:25:10,729 | Thread-3 | iSPOS | -- updateOrderViewAndShowPayInfo ¡£¡£¡£
+DEBUG @2016-10-23 19:25:10,731 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 19:25:10,731 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+INFO  @2016-10-23 19:25:10,733 | Thread-3 | iSPOS | -- POSCore  calculateAmountsGroup...
+DEBUG @2016-10-23 19:25:10,733 | Thread-3 | iSPOS | -- setGrillQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:10,733 | Thread-3 | iSPOS | -- setProductQty with quantity = -1  ¡£¡£¡£
+DEBUG @2016-10-23 19:25:11,677 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByWeChatPay
+INFO  @2016-10-23 19:25:11,677 | Thread-3 | iSPOS | -- payByWeChatPay ...
+ERROR @2016-10-23 19:25:18,370 | Thread-3 | iSPOS | -- Exception in payByWeChatPay -
+java.lang.NullPointerException
+	at net.TalentSolution.TSPOS.Payment.Payments.payByWeChatPay(Payments.java:860)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:186)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:204)
+	at org.python.core.PyObject.__call__(PyObject.java:461)
+	at org.python.core.PyObject.__call__(PyObject.java:465)
+	at org.python.core.PyMethod.__call__(PyMethod.java:126)
+	at org.python.pycode._pyx3.JYOC_PayByWeChatPay$3(<string>:15)
+	at org.python.pycode._pyx3.call_function(<string>)
+	at org.python.core.PyTableCode.call(PyTableCode.java:167)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:138)
+	at org.python.core.PyFunction.__call__(PyFunction.java:413)
+	at org.python.core.PyFunction.__call__(PyFunction.java:408)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.callJython(JythonControllerManager.java:37)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.call(JythonControllerManager.java:63)
+	at net.TalentSolution.TSPOS.POSController.POSController.postKey(POSController.java:421)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.postKey(CustomerUIManager.java:383)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.trolltech.qt.internal.QSignalEmitterInternal$AbstractSignalInternal.emit_helper(QSignalEmitterInternal.java:400)
+	at com.trolltech.qt.QSignalEmitter$Signal1.emit(QSignalEmitter.java:210)
+	at com.trolltech.qt.gui.QApplication.exec_internal(Native Method)
+	at com.trolltech.qt.gui.QApplication.execStatic(QApplication.java:574)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:121)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:25:18,409 | Thread-3 | iSPOS | --  = 16777221 ----> 
+INFO  @2016-10-23 19:25:18,409 | Thread-3 | iSPOS | -- Current Scanned Code = 
+INFO  @2016-10-23 19:29:27,221 | main | iSPOS | -- POSControllerToolKit -- findProcess  processName=iSPOS.exe
+INFO  @2016-10-23 19:29:28,532 | Thread-3 | iSPOS | -- posType=SS
+INFO  @2016-10-23 19:29:28,548 | Thread-3 | iSPOS | -- Configuration  initAmounts...
+INFO  @2016-10-23 19:29:28,548 | Thread-3 | iSPOS | -- ConfigurationManager...initTenderTypes...
+ERROR @2016-10-23 19:29:28,973 | Thread-3 | iSPOS | -- !! console: Failed to install '': java.nio.charset.UnsupportedCharsetException: cp0.
+DEBUG @2016-10-23 19:29:31,205 | Thread-3 | iSPOS | -- setScriptVersion ...version:$Revision: 1754 $
+DEBUG @2016-10-23 19:29:31,244 | Thread-3 | iSPOS | -- POSCore init currentUuid=535662231
+INFO  @2016-10-23 19:29:31,252 | Thread-3 | iSPOS | -- initLocalServices ...
+INFO  @2016-10-23 19:29:31,253 | Thread-3 | iSPOS | -- Started up Service POS POS2.
+DEBUG @2016-10-23 19:29:31,293 | Thread-3 | iSPOS | -- setSerialPort(.tmp) ...
+INFO  @2016-10-23 19:29:31,294 | Thread-3 | iSPOS | -- initialise printer PRN101 on port Com.tmp with baud rate = 9600
+INFO  @2016-10-23 19:29:31,294 | Thread-3 | iSPOS | -- Started up Service PRN PRN101.
+ERROR @2016-10-23 19:29:31,401 | Thread-3 | iSPOS | -- Exception in decrypt(8cafc860ed74b5f9) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:91)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+ERROR @2016-10-23 19:29:31,401 | Thread-3 | iSPOS | -- Exception in decrypt(edb3f9a33fb123b0435e908dbd4d895faca0b3ed4aa70811) -
+javax.crypto.BadPaddingException: Given final block not properly padded
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:975)
+	at com.sun.crypto.provider.CipherCore.doFinal(CipherCore.java:833)
+	at com.sun.crypto.provider.DESCipher.engineDoFinal(DESCipher.java:314)
+	at javax.crypto.Cipher.doFinal(Cipher.java:2165)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:131)
+	at net.TalentSolution.TSPOS.ServiceAgent.EncryptionDecryption.decrypt(EncryptionDecryption.java:144)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.<init>(ServerPackageFTP.java:92)
+	at net.TalentSolution.TSPOS.ServiceAgent.Network.ftp.Client.ServerPackageFTP.getServerPackageFTP(ServerPackageFTP.java:78)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.startNetworkServeices(ServiceAgent.java:673)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.<init>(ServiceAgent.java:232)
+	at net.TalentSolution.TSPOS.ServiceAgent.ServiceAgent.getServiceAgent(ServiceAgent.java:733)
+	at net.TalentSolution.TSPOS.TSPOS.posStartup(TSPOS.java:246)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:104)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:29:31,402 | Thread-3 | iSPOS | -- ThreadMonitor is monitoring the following networking threads:
+<BroadcastClientThread,Thread-9>;
+<POSTCPIPServer,Thread-7>;
+<ServerPackageFTP,Thread-10>;
+<POSBroadcastServer,Thread-8>;
+
+INFO  @2016-10-23 19:29:31,402 | Thread-3 | iSPOS | -- posStartup...
+ERROR @2016-10-23 19:29:31,680 | Thread-3 | iSPOS | -- Cannot find image file Images/1024x768/statusbarbk.png for net.TalentSolution.TSPOS.UI.Label_StatusBar
+DEBUG @2016-10-23 19:29:31,740 | Thread-3 | iSPOS | -- backupDBFileAndLogFile...
+DEBUG @2016-10-23 19:29:31,745 | Thread-3 | iSPOS | -- reconstitutionLastDBAndLog...lastLogFile=9997_2_161023.log,lastDBFile=9997_2_161023.DB
+DEBUG @2016-10-23 19:29:31,745 | Thread-3 | iSPOS | -- Reconstruct order(reconstitutionOrder)
+DEBUG @2016-10-23 19:29:31,752 | Thread-3 | iSPOS | -- recoverLastOrderAndRefreshScreen ...
+INFO  @2016-10-23 19:29:31,752 | Thread-3 | iSPOS | -- recoverLastOrder ...
+INFO  @2016-10-23 19:29:31,761 | Thread-3 | iSPOS | -- recoverLastOrder0 ...
+DEBUG @2016-10-23 19:29:31,762 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 19:29:31,764 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 6000, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:31,768 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:6000
+DEBUG @2016-10-23 19:29:31,768 | Thread-3 | iSPOS | -- updateOrderViewAndShowPayInfo ¡£¡£¡£
+DEBUG @2016-10-23 19:29:31,770 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+ERROR @2016-10-23 19:29:31,770 | Thread-3 | iSPOS | -- Exception in recoverLastOrderAndRefreshScreen -
+java.lang.NullPointerException
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.setCalculatorTitleText(CustomerUIManager.java:615)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.showTotal(CustomerUIManager.java:1696)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.showTotalAndAllDiscountAndAllPayInfo(CustomerUIManager.java:1626)
+	at net.TalentSolution.TSPOS.POSController.POSController.updateOrderViewAndShowPayInfo(POSController.java:904)
+	at net.TalentSolution.TSPOS.POSController.POSController.recoverLastOrderAndRefreshScreen(POSController.java:3316)
+	at net.TalentSolution.TSPOS.POSController.POSController.reconstitutionOrder(POSController.java:2610)
+	at net.TalentSolution.TSPOS.POSController.POSController.reconstitutionLastDBAndLog(POSController.java:2238)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.setupUI(CustomerUIManager.java:236)
+	at net.TalentSolution.TSPOS.TSPOS.UI_Setup(TSPOS.java:289)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:106)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:29:31,770 | Thread-3 | iSPOS | -- UI loaded...
+DEBUG @2016-10-23 19:29:32,771 | Thread-3 | iSPOS | -- verifyAndRepairLastOperationAndVerifyDB ...
+DEBUG @2016-10-23 19:29:32,771 | Thread-3 | iSPOS | -- verifySqliteDatabaseIsOK...
+DEBUG @2016-10-23 19:29:32,960 | Thread-3 | iSPOS | -- appendStatementInCurrentSqlFile:threadID=16,sql=Insert Into PosHeartBeat (StoreID,StoreOtherID,PosID,LastHeartBeat) Values ('9997','9997','2','2016-10-23 19:29:32');
+DEBUG @2016-10-23 19:29:33,010 | Thread-3 | iSPOS | -- setPOSStartToFinished...POSStartToFinished=true
+DEBUG @2016-10-23 19:29:35,781 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ReturnSales
+DEBUG @2016-10-23 19:29:35,782 | Thread-3 | iSPOS | -- returnToSales ...
+INFO  @2016-10-23 19:29:35,783 | Thread-3 | iSPOS | -- gotoSalesPanel ...
+DEBUG @2016-10-23 19:29:35,783 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:35,784 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+INFO  @2016-10-23 19:29:35,786 | Thread-3 | iSPOS | -- Initial DiscountManager...
+INFO  @2016-10-23 19:29:35,786 | Thread-3 | iSPOS | -- initAllDiscounts ...
+INFO  @2016-10-23 19:29:35,791 | Thread-3 | iSPOS | --  inital discount with ID: 1001 done.
+INFO  @2016-10-23 19:29:35,791 | Thread-3 | iSPOS | --  inital discount with ID: 1002 done.
+INFO  @2016-10-23 19:29:35,792 | Thread-3 | iSPOS | --  inital discount with ID: 1003 done.
+INFO  @2016-10-23 19:29:35,792 | Thread-3 | iSPOS | --  inital discount with ID: 1004 done.
+INFO  @2016-10-23 19:29:35,792 | Thread-3 | iSPOS | --  inital discount with ID: 1005 done.
+INFO  @2016-10-23 19:29:35,792 | Thread-3 | iSPOS | --  inital discount with ID: 1006 done.
+INFO  @2016-10-23 19:29:35,792 | Thread-3 | iSPOS | --  inital discount with ID: 1007 done.
+INFO  @2016-10-23 19:29:35,793 | Thread-3 | iSPOS | --  inital discount with ID: 1008 done.
+INFO  @2016-10-23 19:29:35,793 | Thread-3 | iSPOS | --  inital discount with ID: 1009 done.
+INFO  @2016-10-23 19:29:35,793 | Thread-3 | iSPOS | --  inital discount with ID: 1010 done.
+INFO  @2016-10-23 19:29:35,794 | Thread-3 | iSPOS | --  inital discount with ID: 1011 done.
+INFO  @2016-10-23 19:29:35,795 | Thread-3 | iSPOS | --  inital discount with ID: 1012 done.
+INFO  @2016-10-23 19:29:35,795 | Thread-3 | iSPOS | --  inital discount with ID: 1013 done.
+INFO  @2016-10-23 19:29:35,795 | Thread-3 | iSPOS | -- initAllDiscounts Done.
+INFO  @2016-10-23 19:29:35,795 | Thread-3 | iSPOS | -- initAllDiscounts - add discounts to different ApplyAt classes.
+INFO  @2016-10-23 19:29:35,796 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 19:29:35,796 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 19:29:35,796 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode =  ¡£¡£¡£
+DEBUG @2016-10-23 19:29:35,797 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode =   ¡£¡£¡£
+DEBUG @2016-10-23 19:29:35,797 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-23 19:29:37,357 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_Total 0
+DEBUG @2016-10-23 19:29:37,357 | Thread-3 | iSPOS | -- orderTotal with orderType = 0 ...
+INFO  @2016-10-23 19:29:37,358 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 19:29:37,358 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - reconstruct discounts
+INFO  @2016-10-23 19:29:37,359 | pool-6-thread-1 | iSPOS | -- performAllTotaledDiscounts writeLog = true ...
+INFO  @2016-10-23 19:29:37,359 | Thread-3 | iSPOS | -- getPlateNumber... orderNumber:2
+DEBUG @2016-10-23 19:29:37,359 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+DEBUG @2016-10-23 19:29:37,360 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 6000, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:37,363 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:6000
+DEBUG @2016-10-23 19:29:37,363 | Thread-3 | iSPOS | -- updateOrderViewAndShowPayInfo ¡£¡£¡£
+DEBUG @2016-10-23 19:29:37,366 | Thread-3 | iSPOS | -- roundingAmt from 48.0000 returned 48.00
+ERROR @2016-10-23 19:29:37,389 | Thread-3 | iSPOS | -- !! Exception caught after invoking slot
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !! Traceback (most recent call last):
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !!   File "JythonFile/TSPOSJython.py", line 126, in JYOC_Total
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !!     net.TalentSolution.TSPOS.POSController.POSController.getPOSController().orderTotal(orderType);
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.UI.CustomerUIManager.setCalculatorTitleText(CustomerUIManager.java:615)
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.UI.CustomerUIManager.showTotal(CustomerUIManager.java:1696)
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.UI.CustomerUIManager.showTotalAndAllDiscountAndAllPayInfo(CustomerUIManager.java:1626)
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.POSController.POSController.updateOrderViewAndShowPayInfo(POSController.java:904)
+ERROR @2016-10-23 19:29:37,390 | Thread-3 | iSPOS | -- !! 	at net.TalentSolution.TSPOS.POSController.POSController.orderTotal(POSController.java:4671)
+ERROR @2016-10-23 19:29:37,391 | Thread-3 | iSPOS | -- !! 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+ERROR @2016-10-23 19:29:37,391 | Thread-3 | iSPOS | -- !! 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+ERROR @2016-10-23 19:29:37,391 | Thread-3 | iSPOS | -- !! 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+ERROR @2016-10-23 19:29:37,391 | Thread-3 | iSPOS | -- !! 	at java.lang.reflect.Method.invoke(Method.java:498)
+ERROR @2016-10-23 19:29:37,391 | Thread-3 | iSPOS | -- !! java.lang.NullPointerException: java.lang.NullPointerException
+DEBUG @2016-10-23 19:29:38,797 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 19:29:38,798 | Thread-3 | iSPOS | -- payByAliPay ...
+ERROR @2016-10-23 19:29:41,462 | Thread-3 | iSPOS | -- Exception in payByAliPay -
+java.lang.NullPointerException
+	at net.TalentSolution.TSPOS.Payment.Payments.payByAliPay(Payments.java:607)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:186)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:204)
+	at org.python.core.PyObject.__call__(PyObject.java:461)
+	at org.python.core.PyObject.__call__(PyObject.java:465)
+	at org.python.core.PyMethod.__call__(PyMethod.java:126)
+	at org.python.pycode._pyx3.JYOC_PayByAliPay$1(<string>:9)
+	at org.python.pycode._pyx3.call_function(<string>)
+	at org.python.core.PyTableCode.call(PyTableCode.java:167)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:138)
+	at org.python.core.PyFunction.__call__(PyFunction.java:413)
+	at org.python.core.PyFunction.__call__(PyFunction.java:408)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.callJython(JythonControllerManager.java:37)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.call(JythonControllerManager.java:63)
+	at net.TalentSolution.TSPOS.POSController.POSController.postKey(POSController.java:421)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.postKey(CustomerUIManager.java:383)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.trolltech.qt.internal.QSignalEmitterInternal$AbstractSignalInternal.emit_helper(QSignalEmitterInternal.java:400)
+	at com.trolltech.qt.QSignalEmitter$Signal1.emit(QSignalEmitter.java:210)
+	at com.trolltech.qt.gui.QApplication.exec_internal(Native Method)
+	at com.trolltech.qt.gui.QApplication.execStatic(QApplication.java:574)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:121)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:29:41,507 | Thread-3 | iSPOS | --  = 16777221 ----> 
+INFO  @2016-10-23 19:29:41,507 | Thread-3 | iSPOS | -- Current Scanned Code = 
+DEBUG @2016-10-23 19:29:44,469 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_PayByAliPay
+INFO  @2016-10-23 19:29:44,469 | Thread-3 | iSPOS | -- payByAliPay ...
+ERROR @2016-10-23 19:29:47,187 | Thread-3 | iSPOS | -- Exception in payByAliPay -
+java.lang.NullPointerException
+	at net.TalentSolution.TSPOS.Payment.Payments.payByAliPay(Payments.java:607)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:186)
+	at org.python.core.PyReflectedFunction.__call__(PyReflectedFunction.java:204)
+	at org.python.core.PyObject.__call__(PyObject.java:461)
+	at org.python.core.PyObject.__call__(PyObject.java:465)
+	at org.python.core.PyMethod.__call__(PyMethod.java:126)
+	at org.python.pycode._pyx3.JYOC_PayByAliPay$1(<string>:9)
+	at org.python.pycode._pyx3.call_function(<string>)
+	at org.python.core.PyTableCode.call(PyTableCode.java:167)
+	at org.python.core.PyBaseCode.call(PyBaseCode.java:138)
+	at org.python.core.PyFunction.__call__(PyFunction.java:413)
+	at org.python.core.PyFunction.__call__(PyFunction.java:408)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.callJython(JythonControllerManager.java:37)
+	at net.TalentSolution.TSPOS.POSJythonController.JythonControllerManager.call(JythonControllerManager.java:63)
+	at net.TalentSolution.TSPOS.POSController.POSController.postKey(POSController.java:421)
+	at net.TalentSolution.TSPOS.UI.CustomerUIManager.postKey(CustomerUIManager.java:383)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.trolltech.qt.internal.QSignalEmitterInternal$AbstractSignalInternal.emit_helper(QSignalEmitterInternal.java:400)
+	at com.trolltech.qt.QSignalEmitter$Signal1.emit(QSignalEmitter.java:210)
+	at com.trolltech.qt.gui.QApplication.exec_internal(Native Method)
+	at com.trolltech.qt.gui.QApplication.execStatic(QApplication.java:574)
+	at net.TalentSolution.TSPOS.TSPOS.run(TSPOS.java:121)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  @2016-10-23 19:29:47,221 | Thread-3 | iSPOS | --  = 16777221 ----> 
+INFO  @2016-10-23 19:29:47,221 | Thread-3 | iSPOS | -- Current Scanned Code = 
+DEBUG @2016-10-23 19:29:48,597 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ReturnSales
+DEBUG @2016-10-23 19:29:48,598 | Thread-3 | iSPOS | -- returnToSales ...
+INFO  @2016-10-23 19:29:48,598 | Thread-3 | iSPOS | -- gotoSalesPanel ...
+DEBUG @2016-10-23 19:29:48,598 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:48,602 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+INFO  @2016-10-23 19:29:48,602 | pool-6-thread-1 | iSPOS | -- initAllDiscounts - clean all discounts for current order.
+INFO  @2016-10-23 19:29:48,602 | pool-6-thread-1 | iSPOS | -- performAllOrderedDiscounts...
+DEBUG @2016-10-23 19:29:48,602 | Thread-3 | iSPOS | -- updateOrderViewAndSmartOrElementScreenByCurrentOrder with pCode =  ¡£¡£¡£
+DEBUG @2016-10-23 19:29:48,602 | Thread-3 | iSPOS | -- createSmartScreenOrElementScreen with pCode =   ¡£¡£¡£
+DEBUG @2016-10-23 19:29:48,602 | Thread-3 | iSPOS | -- updateOrderViewByCurrentOrder ¡£¡£¡£
+DEBUG @2016-10-23 19:29:50,269 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 500
+DEBUG @2016-10-23 19:29:50,270 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 500, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:50,273 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:500
+DEBUG @2016-10-23 19:29:50,814 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 200
+DEBUG @2016-10-23 19:29:50,814 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 200, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:50,815 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:200
+DEBUG @2016-10-23 19:29:51,231 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 600
+DEBUG @2016-10-23 19:29:51,231 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 600, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:51,233 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:600
+DEBUG @2016-10-23 19:29:51,613 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 300
+DEBUG @2016-10-23 19:29:51,614 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 300, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:51,618 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:300
+DEBUG @2016-10-23 19:29:52,037 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:52,037 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:52,041 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:52,373 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 800
+DEBUG @2016-10-23 19:29:52,373 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 800, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:52,375 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:800
+DEBUG @2016-10-23 19:29:52,709 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:52,709 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:52,713 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:53,135 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:53,135 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:53,136 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+DEBUG @2016-10-23 19:29:53,469 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:53,469 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:53,470 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:53,764 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:53,766 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:53,766 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+DEBUG @2016-10-23 19:29:53,990 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:53,990 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:53,992 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+INFO  @2016-10-23 19:29:54,080 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:54,080 | Thread-3 | iSPOS | -- Current Scanned Code = C
+INFO  @2016-10-23 19:29:54,082 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:54,082 | Thread-3 | iSPOS | -- Current Scanned Code = C!
+DEBUG @2016-10-23 19:29:54,231 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:54,232 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:54,233 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+DEBUG @2016-10-23 19:29:54,437 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:54,437 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:54,438 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:54,606 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:54,606 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:54,608 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+INFO  @2016-10-23 19:29:54,698 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:54,698 | Thread-3 | iSPOS | -- Current Scanned Code = C!C
+INFO  @2016-10-23 19:29:54,709 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:54,709 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!
+DEBUG @2016-10-23 19:29:54,813 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:54,813 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:54,815 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:54,981 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:54,981 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:54,983 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+DEBUG @2016-10-23 19:29:55,245 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:55,245 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:55,247 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:55,407 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:55,407 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:55,409 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+DEBUG @2016-10-23 19:29:55,645 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 400
+DEBUG @2016-10-23 19:29:55,646 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 400, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:55,649 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:400
+DEBUG @2016-10-23 19:29:55,829 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 700
+DEBUG @2016-10-23 19:29:55,830 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 700, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:55,831 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:700
+DEBUG @2016-10-23 19:29:56,077 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 300
+DEBUG @2016-10-23 19:29:56,077 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 300, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:56,079 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:300
+INFO  @2016-10-23 19:29:56,171 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:56,171 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C
+INFO  @2016-10-23 19:29:56,178 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:56,178 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!
+DEBUG @2016-10-23 19:29:56,245 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 300
+DEBUG @2016-10-23 19:29:56,246 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 300, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:56,247 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:300
+DEBUG @2016-10-23 19:29:56,453 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 600
+DEBUG @2016-10-23 19:29:56,453 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 600, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:56,455 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:600
+INFO  @2016-10-23 19:29:56,545 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:56,545 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C
+INFO  @2016-10-23 19:29:56,552 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:56,552 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!
+INFO  @2016-10-23 19:29:56,679 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:56,679 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C
+INFO  @2016-10-23 19:29:56,695 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:56,695 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!
+INFO  @2016-10-23 19:29:56,886 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:56,886 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!C
+INFO  @2016-10-23 19:29:56,896 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:56,896 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!C!
+DEBUG @2016-10-23 19:29:57,021 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 500
+DEBUG @2016-10-23 19:29:57,022 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 500, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:57,025 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:500
+INFO  @2016-10-23 19:29:57,111 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:57,111 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!C!C
+INFO  @2016-10-23 19:29:57,114 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:57,114 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!C!C!
+DEBUG @2016-10-23 19:29:57,221 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 100
+DEBUG @2016-10-23 19:29:57,221 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:57,224 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+DEBUG @2016-10-23 19:29:57,398 | Thread-3 | iSPOS | -- postKey on button pCode = null. Action = JYOC_ShowScreen 100
+DEBUG @2016-10-23 19:29:57,398 | Thread-3 | iSPOS | -- gotoScreen with target screen and cardRequired = 100, true  ¡£¡£¡£
+INFO  @2016-10-23 19:29:57,402 | Thread-3 | iSPOS | -- changeBackScreenNos---screenNo:100
+INFO  @2016-10-23 19:29:58,007 | Thread-3 | iSPOS | --  = 67 ----> C
+INFO  @2016-10-23 19:29:58,007 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!C!C!C
+INFO  @2016-10-23 19:29:58,023 | Thread-3 | iSPOS | --  = 16777249 ----> !
+INFO  @2016-10-23 19:29:58,023 | Thread-3 | iSPOS | -- Current Scanned Code = C!C!C!C!C!C!C!C!
