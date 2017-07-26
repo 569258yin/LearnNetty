@@ -1,4 +1,4 @@
-package com.kevinyin.lnetty.demo;
+package com.kevinyin.lnetty.demo.ssl;
 
 import io.netty.channel.*;
 
