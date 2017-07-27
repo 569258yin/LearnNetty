@@ -12,6 +12,8 @@
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
           <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.2.0" />
+          <element id="library" level="project" name="Maven: org.jboss.marshalling:jboss-marshalling:1.4.10.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.marshalling:jboss-marshalling-serial:1.4.10.Final" />
         </element>
       </element>
       <element id="directory" name="META-INF">
